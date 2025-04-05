@@ -5,6 +5,7 @@ import Features from './pages/Features';
 import Login from './pages/Login';
 import Navbar from './components/Navbar'; // ✅ Navbar component
 import Footer from './components/Footer'; // ✅ Footer component
+// Triggering rebuild for Vercel
 
 function App() {
   return (
